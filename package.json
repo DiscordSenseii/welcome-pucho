@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "discord-arts": "^0.0.4",
+    "discord.js": "^13.7.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "yt-subscription-count-scraper": "^1.0.6"
+  }
+}
